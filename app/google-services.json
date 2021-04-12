@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670704006564",
+    "firebase_url": "https://stockapp-2b0df-default-rtdb.firebaseio.com",
+    "project_id": "stockapp-2b0df",
+    "storage_bucket": "stockapp-2b0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670704006564:android:7587f161839d3763d13d31",
+        "android_client_info": {
+          "package_name": "com.example.angelostockapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670704006564-ujd7jab7vr4mcpsiv5jrslfj20tsl49c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWEHuxY9zQqiDJnFi1hzma5b739y1zO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670704006564-ujd7jab7vr4mcpsiv5jrslfj20tsl49c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
